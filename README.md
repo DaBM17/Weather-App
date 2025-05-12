@@ -12,7 +12,7 @@ This project consists of a weather app for browser
 
 ![Look of the app](img/WeatherAppScreenshot.png)
 
-## 🛠️ Language used
+## 🛠️ Languages used
 
 - HTML
 - CSS
