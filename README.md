@@ -10,9 +10,7 @@ This project consists of a weather app for browser
 
 ## 📸 Screenshots
 
-![Initial menu](img/ScreenshotChessMenu.png)
-
-![How it looks once you are playing](img/ScreenshotChess.png)
+![Look of the app](img/WeatherAppScreenshot.png)
 
 ## 🛠️ Language used
 
