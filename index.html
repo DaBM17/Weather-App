@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <div class="info-box">
+        <div class="city-search">
+            <input type="text" placeholder="enter your city" id="city-input">
+            <button onclick="checkWeather()">
+                <img src="img/search.png" width="25px">
+            </button>
+        </div>
+        <div class="wather-info">
+            <img src="img/clear.png" id="weather-pic">
+            <h1 id="temperature">30°C</h1>
+            <h2 id="city-name">Barcelona</h3>
+            <div class="details">
+                <div class="wind">
+                    <img src="img/wind.png">
+                    <p id="wind-speed">30 km/h</p>
+                </div>
+                <div class="humidity">
+                    <img src="img/humidity.png">
+                    <p id="humidity-level">56%</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
